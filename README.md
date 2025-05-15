@@ -1,2 +1,2 @@
 # blockchain
-I am learning blockchains by building one. 
+learning blockchains by building one. 
